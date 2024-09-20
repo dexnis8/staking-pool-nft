@@ -1,0 +1,11 @@
+{
+  "name": "NFT #4",
+  "description": "A unique avatar in our exclusive collection.",
+  "image": "https://gateway.lighthouse.storage/ipfs/bafkreieacmat54wagze24kjugs7upgenzftvhwnqtiuzyx4ma2x5i5k3ma",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}
