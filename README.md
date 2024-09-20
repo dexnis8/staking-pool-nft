@@ -1,13 +1,7 @@
-# Sample Hardhat Project
+StakingToken smart contract
+0xD9a1794196f02eC1c5C07ee1C838CCFA76d45AE3
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+Reward NFT smart contract
+0x4c36F597BE218da54e299c1Fce8951E209Ce343D
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+Still encountering issues deploying the two pools smartcontracts
